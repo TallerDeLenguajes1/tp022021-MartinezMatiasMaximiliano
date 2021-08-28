@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Trabajo Practico 02",
+    "\\Trabajo Practico 02\\Trabajo Practico 02",
+    "\\Trabajo Practico 02\\Trabajo Practico 02\\Controllers"
   ],
-  "SelectedNode": "\\C:\\Users\\Matias\\Desktop\\FACET\\3--Taller de Lenguajes II\\Trabajo Practico 02",
+  "SelectedNode": "\\Trabajo Practico 02\\Trabajo Practico 02\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
