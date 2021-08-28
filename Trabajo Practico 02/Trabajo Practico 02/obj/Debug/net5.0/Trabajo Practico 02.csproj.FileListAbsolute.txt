@@ -1,0 +1,40 @@
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\appsettings.json
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\Trabajo Practico 02.exe
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\Trabajo Practico 02.deps.json
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\Trabajo Practico 02.runtimeconfig.json
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\Trabajo Practico 02.runtimeconfig.dev.json
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\Trabajo Practico 02.dll
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\ref\Trabajo Practico 02.dll
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\Trabajo Practico 02.pdb
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\Trabajo Practico 02.Views.dll
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\Trabajo Practico 02.Views.pdb
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.AssemblyInfoInputs.cache
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.AssemblyInfo.cs
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.RazorAssemblyInfo.cache
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.RazorAssemblyInfo.cs
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\staticwebassets\Trabajo Practico 02.StaticWebAssets.Manifest.cache
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\staticwebassets\Trabajo Practico 02.StaticWebAssets.xml
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\scopedcss\bundle\Trabajo Practico 02.styles.css
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.TagHelpers.input.cache
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.TagHelpers.output.cache
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.RazorCoreGenerate.cache
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.RazorTargetAssemblyInfo.cache
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.RazorTargetAssemblyInfo.cs
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.Views.pdb
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.dll
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\ref\Trabajo Practico 02.dll
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.pdb
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.genruntimeconfig.cache
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.csproj.CopyComplete
