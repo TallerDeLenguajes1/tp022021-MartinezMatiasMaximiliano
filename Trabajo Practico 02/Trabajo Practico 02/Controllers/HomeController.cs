@@ -6,16 +6,18 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Trabajo_Practico_02.Models;
+using NLog;
 
 namespace Trabajo_Practico_02.Controllers
 {
     public class HomeController : Controller
     {
+     
         private readonly ILogger<HomeController> _logger;
-
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
+            _logger.LogDebug(1, "NLog injected into HomeController");
         }
 
         public IActionResult Index()
@@ -32,7 +34,8 @@ namespace Trabajo_Practico_02.Controllers
 
         public string GuardarEmpleado(string _Nombre, string _Apellido, string _Direccion, DateTime _FechaNacimiento, DateTime _FechaIngreso) {
             
-            Empleado nuevo = new Empleado( _Nombre,_Apellido,_Direccion,_FechaNacimiento,_FechaIngreso);
+            Empleado nuevo = new Empleado(_Nombre,_Apellido,_Direccion,_FechaNacimiento,_FechaIngreso);
+            _logger.LogInformation($"[{nuevo.Apellido},{nuevo.Nombre}][Edad:{nuevo.Edad}][Antiguedad:{nuevo.Antiguedad}][Salario:{nuevo.Salario}]");
             return "exito";
         }
 

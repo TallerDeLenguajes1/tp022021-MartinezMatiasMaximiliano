@@ -9,23 +9,23 @@
     <form asp-action="GuardarEmpleado" method="post">
         <div class="mb-3">
             <label for="Name" class="form-label">Nombre</label>
-            <input type="text" class="form-control" id="_Nombre">
+            <input type="text" class="form-control" id="_Nombre" name="_Nombre" required>
         </div>
         <div class="mb-3">
             <label for="LastName" class="form-label">Apellido</label>
-            <input type="text" class="form-control" id="_Apellido">
+            <input type="text" class="form-control" id="_Apellido" name="_Apellido" required>
         </div>
         <div class="mb-3">
-            <label for="Adress" class="form-label">Direccion</label>
-            <input type="text" class="form-control" id="_Direccion">
+            <label for="Address" class="form-label">Direccion</label>
+            <input type="text" class="form-control" id="_Direccion" name="_Direccion" required>
         </div>
         <div class="mb-3">
             <label for="Birthday" class="form-label">Fecha de Nacimiento</label>
-            <input type="date" class="form-control" id="_fechaNacimiento">
+            <input type="date" class="form-control" id="_FechaNacimiento" name="_FechaNacimiento" required>
         </div>
         <div class="mb-3">
             <label for="Entrydate" class="form-label">Fecha de Contratacion</label>
-            <input type="date" class="form-control" id="_fechaIngreso">
+            <input type="date" class="form-control" id="_FechaIngreso" name="_FechaIngreso" required>
         </div>
         <button type="submit" class="btn btn-primary">Guardar en log</button>
     </form>

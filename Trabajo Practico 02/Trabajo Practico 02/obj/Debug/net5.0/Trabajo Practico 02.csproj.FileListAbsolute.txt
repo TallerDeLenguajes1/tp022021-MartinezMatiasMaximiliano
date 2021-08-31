@@ -38,3 +38,7 @@ C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trab
 C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.pdb
 C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.genruntimeconfig.cache
 C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\obj\Debug\net5.0\Trabajo Practico 02.csproj.CopyComplete
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\Nlog.config
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\NLog.dll
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\Matias\Desktop\FACET\3--Taller de Lenguajes II\Trabajo Practico 02\Trabajo Practico 02\Trabajo Practico 02\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
