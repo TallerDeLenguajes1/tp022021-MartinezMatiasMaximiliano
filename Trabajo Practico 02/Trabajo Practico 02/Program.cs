@@ -21,13 +21,13 @@ namespace Trabajo_Practico_02
             var logger = NLogBuilder.ConfigureNLog("nlog.config").GetCurrentClassLogger();
             try
             {
-                logger.Debug("init main");
+                
                 CreateHostBuilder(args).Build().Run();
             }
             catch (Exception exception)
             {
                 //NLog: catch setup errors
-                logger.Error(exception, "Stopped program because of exception");
+                
                 throw;
             }
             finally
